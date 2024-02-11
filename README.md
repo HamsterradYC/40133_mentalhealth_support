@@ -2,7 +2,9 @@
 
 # Main question:
 There are many online communities on Reddit, and mental health related groups have a wide range of followers. While health information sharing and seeking have been known for effectiveness in helping people, we are curious about how online sharing behaviors on Reddit allow people to obtain help to a greater extent with the capacity of social media. 
-## Our specific questions are: How do different online communities have different support approaches for its followers in the group? Is there some difference between mental health information sharing and other information sharing (say political-related opinion sharing) behaviors? 
+
+## Our specific questions are: 
+How do different online communities have different support approaches for its followers in the group? Is there some difference between mental health information sharing and other information sharing (say political-related opinion sharing) behaviors? 
 
 
 # Data Source: Reddit 
@@ -45,6 +47,8 @@ r/talesfromcallcenters
 r/fitness 
 r/frugal 
 r/youshouldknow
+
+## Method
 
 ## References
 1. Shen, J.H., Rudzicz, F., 2017. Detecting Anxiety through Reddit, in: Proceedings of the Fourth Workshop on Computational Linguistics and           Clinical Psychology –- From Linguistic Signal to Clinical Reality. Presented at the Proceedings of the Fourth Workshop on Computational Linguistics and           Clinical Psychology –- From Linguistic Signal to Clinical Reality, Association for Computational Linguistics, Vancouver, BC, pp. 58–65. https://doi.org/10.18653/v1/W17-3107
