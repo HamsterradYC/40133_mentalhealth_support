@@ -45,3 +45,10 @@ r/talesfromcallcenters
 r/fitness 
 r/frugal 
 r/youshouldknow
+
+## References
+1. Shen, J.H., Rudzicz, F., 2017. Detecting Anxiety through Reddit, in: Proceedings of the Fourth Workshop on Computational Linguistics and           Clinical Psychology –- From Linguistic Signal to Clinical Reality. Presented at the Proceedings of the Fourth Workshop on Computational Linguistics and           Clinical Psychology –- From Linguistic Signal to Clinical Reality, Association for Computational Linguistics, Vancouver, BC, pp. 58–65. https://doi.org/10.18653/v1/W17-3107
+
+2. 
+
+
