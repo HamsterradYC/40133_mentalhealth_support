@@ -50,6 +50,10 @@ r/youshouldknow
 
 ## Method
 
+1. Data Scraping: Getting data from Reddit
+2. Clustering: Analyzing the differences in top words between different types of groups
+3. LLMs: Analyzing the sentiments of different communities
+
 ## References
 1. Shen, J.H., Rudzicz, F., 2017. Detecting Anxiety through Reddit, in: Proceedings of the Fourth Workshop on Computational Linguistics and           Clinical Psychology –- From Linguistic Signal to Clinical Reality. Presented at the Proceedings of the Fourth Workshop on Computational Linguistics and           Clinical Psychology –- From Linguistic Signal to Clinical Reality, Association for Computational Linguistics, Vancouver, BC, pp. 58–65. https://doi.org/10.18653/v1/W17-3107
 
